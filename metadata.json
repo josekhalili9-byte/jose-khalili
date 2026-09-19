@@ -1,0 +1,6 @@
+{
+  "name": "Progreso RPG: Hábitos y Niveles",
+  "description": "Aplicación personal de hábitos y misiones con sistema de niveles, experiencia, racha, avatar evolutivo y análisis de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
